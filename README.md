@@ -12,7 +12,7 @@ This repository includes all relevant resources used in the research and experim
 
 ---
 
-## 📘 [Medieninformatik](Medieninformatik)
+## 📘 [Medieninformatik](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Medieninformatik)
 
 - Contains model results for **both BHT and THL**.
 - File naming convention:  
@@ -23,30 +23,30 @@ This repository includes all relevant resources used in the research and experim
   - `XGB`: XGBoost  
 
 ### 🔍 Key Files:
-- [`Medieninformatik Data Analysis.ipynb`](Medieninformatik%20Data%20Analysis.ipynb)  
-- [`Correlation and VIF analysis`](Correlation%20and%20VIF%20analysis/)  
+- [`Medieninformatik Data Analysis.ipynb`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Analysis)  - present data analysis.
+- [`Correlation and VIF analysis`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Correlation%20and%20VIF%20analysis)  
   Contains correlation analysis and variance inflation factor (VIF) analysis.
 
 ---
 
-## 📗 [Wirtschaftsinformatik](Wirtschaftsinformatik)
+## 📗 ([Wirtschaftsinformatik](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Writschaftsinformatik))
 
 - Contains model results for **BHT** only.
 - File naming convention:  
   `BHT-log`, `BHT-RF`, etc.
 
 ### 🔍 Key File:
-- [`Wirtschaftsinformatik Data Analysis.ipynb`](Wirtschaftsinformatik%20Data%20Analysis.ipynb)
+- [`Wirtschaftsinformatik Data Analysis.ipynb`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/blob/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Writschaftsinformatik/Writschaftsinformatik%20Data%20analysis.ipynb) - Contains the data analysis
 
 ---
 
 ## 🧪 Medieninformatik (Original + Synthetic Data)
 
-- **Folder:** [`Synthetic Data Preparation`](Synthetic%20Data%20Preparation/)  
-  - File: [`Data_preparation.ipynb`](Synthetic%20Data%20Preparation/Data_preparation.ipynb)  
+- **Folder:** [`Synthetic Data Preparation`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Synthetic%20Data%20Preparation)  
+  - File: [`Data_preparation.ipynb`]([Synthetic%20Data%20Preparation/Data_preparation.ipynb](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Synthetic%20Data%20Preparation))  
     Describes the preprocessing and synthetic data generation process.
 
-- **Folder:** [`Medieninformatik (original + synthetic)`](Medieninformatik%20(original%20+%20synthetic)/)  
+- **Folder:** [`Medieninformatik (original + synthetic)`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Medieninformatik%20(orginal%20%2B%20synthetic))  
   Contains model results for both BHT and THL using original and synthetic datasets.
 
 ---
@@ -73,4 +73,4 @@ This repository includes all relevant resources used in the research and experim
 
 **Raj Waghela**  
 M.Sc. Data Science, BHT Berlin  
-[LinkedIn](https://www.linkedin.com/in/rajwaghela369) | [GitHub](https://github.com/Rajwaghela369)
+
