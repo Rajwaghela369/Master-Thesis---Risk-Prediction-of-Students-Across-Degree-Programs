@@ -40,7 +40,7 @@ This repository includes all relevant resources used in the research and experim
 
 ---
 
-## 🧪 Medieninformatik (Original + Synthetic Data)
+## 📘 Medieninformatik (Original + Synthetic Data)
 
 - **Folder:** [`Synthetic Data Preparation`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Synthetic%20Data%20Preparation)  
   - File: [`Data_preparation.ipynb`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/94604a38650cf19144464fdef54f72874252aeeb/Synthetic%20Data%20Preparation)
