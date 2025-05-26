@@ -46,7 +46,7 @@ This repository includes all relevant resources used in the research and experim
   - File: [`Data_preparation.ipynb`]([Synthetic%20Data%20Preparation/Data_preparation.ipynb](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Synthetic%20Data%20Preparation)
     Describes the preprocessing and synthetic data generation process.
 
-- **Folder:** [`Medieninformatik (original + synthetic)`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Medieninformatik%20(orginal%20%2B%20synthetic))  
+- **Folder:** [`Medieninformatik (original + synthetic)`](https://github.com/Rajwaghela369/Master-Thesis---Risk-Prediction-of-Students-Across-Degree-Programs/tree/e7698fcde3b6a9cebb64f95b2d3d158acf773d6a/Medieninformatik%20(orginal%20%2B%20synthetic)
   Contains model results for both BHT and THL using original and synthetic datasets.
 
 ---
